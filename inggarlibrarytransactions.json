@@ -1,1 +1,9 @@
-{"_id":{"$oid":"6765212af2b081f125dc74df"},"items data":"B00005","member id":"216784590003","borrow date":"17122024","return date":"24122024","status":"borrowed"}
+{
+  "_id":{
+    "$oid":"6765212af2b081f125dc74df"},
+  "items data":"B00005",
+  "member id":"216784590003",
+  "borrow date":"17122024",
+  "return date":"24122024",
+  "status":"borrowed"
+}
